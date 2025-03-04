@@ -1,0 +1,17 @@
+/* Add this to your CSS file or use a CSS-in-JS solution */
+@media (max-width: 768px) {
+    .grid {
+      width: 90vw;
+      height: 90vw;
+    }
+  
+    .grid > div {
+      width: 30vw;
+      height: 30vw;
+    }
+  
+    .flex > button {
+      width: 30vw;
+      height: 30vw;
+    }
+  }
